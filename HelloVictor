@@ -1,0 +1,9 @@
+package HelloVictor;
+
+public class HelloVictor
+{
+  public static void main (String [] args) 
+  {
+	System.out.println("Hello Victor is a god and a true hero");
+  }
+}
